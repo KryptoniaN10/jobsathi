@@ -406,4 +406,3 @@ For issues and questions:
 ---
 
 **Built with ❤️ for job seekers across India**
-
