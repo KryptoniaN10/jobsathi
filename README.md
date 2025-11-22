@@ -3,7 +3,6 @@
 JobSathi is an intelligent voice-driven resume builder that supports **17+ Indian languages** with ASR (Automatic Speech Recognition), English translation, and ATS-optimized PDF resume generation. It also includes job search integration across multiple platforms.
 
 ## 🌟 Features
-
 ### Core Features
 - **🎤 Voice Input Support** - Record answers in any of 17+ Indian languages
 - **⌨️ Text Input Support** - Type answers directly in English or any language
